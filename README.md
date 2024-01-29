@@ -1,7 +1,7 @@
 # Aloha, I'm [Antenhe Tena!](https://www.linkedin.com/in/tenaa/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 # 💫 About Me:
-🦾 I'm currently working on Arrow Decentralized Financial Markets<br>🤞🏽 I'm looking for help with growing my React development skills<br>🧠 I'm currently learning Go development<br>🗣 Ask me about blockchain<br>😊 Fun fact: I am addicted to eating Pho!  🍲
+🦾 I'm currently working on Arrow Decentralized Financial Markets<br>🤞🏽 I'm looking for help with growing my React development skills<br>🧠 I'm currently learning Flutter mobile development<br>🗣 Ask me about blockchain<br>😊 Fun fact: I am addicted to eating Pho!  🍲
 
 
 ## 🌐 Socials:
